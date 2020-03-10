@@ -8,7 +8,7 @@ Paste all commands used in this task to file *yourname.commands*
 
 1. Clone this repository
 2. Create a new *branch* with: *yourname-files*
-3. Modify the hall of fame file inserting your name
+3. Modify the winners file inserting your name
 4. Print the *status* of files and *differences (diff)* of modified files from command line
 5. Stash your modifications and copy the response to file: *yourname.log*
 6. apply your *stashed* mofications and copy the response to file: *yourname.log*
