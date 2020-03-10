@@ -3,6 +3,7 @@ Repository for teaching git
 
 # Instructions
 Before starting, create a github account and install git.
+You must do all the steps using *terminal*.
 Paste all commands used in this task to file *yourname.commands*
 
 1. Clone this repository
