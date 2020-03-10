@@ -15,7 +15,7 @@ Paste all commands used in this task to file *yourname.commands*
 8. Create pull request to this repository from your branch to master
 9. After approval, merge you *PR (pull request)*
 
-# Prepare this anwser:
+# Prepare this answers:
 1. Can you explain the importance of version control?
 2. How can you see what changed after modifications?
 
