@@ -22,3 +22,6 @@ Paste all commands used in this task to file *yourname.commands*
 
 # Deadline
 You have 4 days to finish this task (until Saturday night).
+
+# References:
+https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet/
